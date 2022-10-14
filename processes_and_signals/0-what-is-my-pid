@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 #!/usr/bin/env bash
 #display PID
 echo $$
-=======
-
->>>>>>> 8627ed6ca6599954f3f40ed5303aad1bc5d0e825
